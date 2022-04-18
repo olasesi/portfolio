@@ -4,13 +4,12 @@
 <!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 
-<!-- Mirrored from marketifythemes.net/html/3/index-dark-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 Apr 2022 13:35:28 GMT -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="description" content="Name of your web site">
-<meta name="author" content="Marketify">
+<meta name="description" content="Olusesi Ahmed Oladipupo is a fullstack web developer. I turn concepts, user stories, mockups, etc to  functional websites.">
+<meta name="author" content="olusesi ahmed">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<title>iKnow | Home</title>
+<title>Olusesi Ahmed Oladipupo</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
@@ -33,7 +32,7 @@
 <div class="iknow_tm_modalbox">
 <div class="box_inner">
 <div class="close">
-<a href="#"><img class="svg" src="img/svg/cancel.svg" alt="" /></a>
+<a href="/"><img class="svg" src="img/svg/cancel.svg" alt="Olusesi Ahmed" /></a>
 </div>
 <div class="description_wrap"></div>
 </div>
@@ -828,7 +827,7 @@
 <span class="icon"><img class="svg" src="img/svg/smartphone.svg" alt="" /></span>
 <div class="short">
 <h3>Call Me</h3>
-<span>+123 456 7890</span>
+<span>+234 807 4574 512</span>
 </div>
 </div>
 </li>
@@ -891,7 +890,7 @@
 <div class="container">
 <div class="inner">
 <div class="left">
-<p>Designed with love &copy; <a href="https://themeforest.net/user/marketify" target="_blank">Marketify</a></p>
+<p><!--Designed with love &copy; <a href="https://themeforest.net/user/marketify" target="_blank">Marketify</a>--></p>
 </div>
 <div class="right">
 <ul>
@@ -917,6 +916,4 @@
 <script src="js/init.js"></script>
 
 </body>
-
-<!-- Mirrored from marketifythemes.net/html/3/index-dark-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 Apr 2022 13:35:52 GMT -->
 </html>
