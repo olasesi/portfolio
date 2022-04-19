@@ -47,15 +47,15 @@
 </div>
 <div class="right">
 <div class="iknow_tm_button fixedVersion">
-<a href="img/cv/1.jpg" download>Download CV</a>
+<a href="../storage/CV Olusesi Ahmed 20220413.pdf" download>Download CV</a>
 </div>
 </div>
 
 <div class="iknow_tm_author_info">
 <div class="info_inner">
 <div class="info">
-<h3>Sarah Jessica</h3>
-<span>Senior UI/UX Designer</span>
+<h3>Olusesi Ahmed</h3>
+<span>Web developer</span>
 </div>
 <div class="avatar">
 <div class="main" data-img-url="img/hero/3.jpg"></div>
@@ -125,15 +125,16 @@
 </div>
 <div class="extra">
 <div class="short">
-<h3>Sarah Jessica</h3>
-<span>Senior UI/UX Designer</span>
+<h3>Olusesi Ahmed</h3>
+<span>Web developer</span>
 </div>
 <div class="social">
 <ul>
-<li><a href="#"><img class="svg" src="img/svg/social/facebook-2.svg" alt="" /></a></li>
-<li><a href="#"><img class="svg" src="img/svg/social/twitter-2.svg" alt="" /></a></li>
-<li><a href="#"><img class="svg" src="img/svg/social/youtube-3.svg" alt="" /></a></li>
-<li><a href="#"><img class="svg" src="img/svg/social/linkedin-2.svg" alt="" /></a></li>
+<li><a href="https://facebook.com/ola.sesi" target="_blank"><img class="svg" src="img/svg/social/facebook-2.svg" alt="ahmed facebook link" /></a></li>
+<li><a href="https://github.com/olasesi" target="_blank"><img class="svg" src="img/svg/social/github-150.svg" alt="ahmed github link" /></a></li>
+<!--<li><a href="#"><img class="svg" src="img/svg/social/twitter-2.svg" alt="" /></a></li>
+<li><a href="#"><img class="svg" src="img/svg/social/youtube-3.svg" alt="" /></a></li>-->
+<li><a href="https://www.linkedin.com/in/ahmed-olusesi-67763853/" target="_blank"><img class="svg" src="img/svg/social/linkedin-2.svg" alt="ahmed linkedin link" /></a></li>
 </ul>
 </div>
 </div>
@@ -157,27 +158,27 @@
 <ul>
 <li>
 <h3>Name</h3>
-<span>Sarah Jessica</span>
+<span>Olusesi Ahmed</span>
 </li>
 <li>
 <h3>Birthday</h3>
-<span>April 22, 1990</span>
+<span>April 15, 1991</span>
 </li>
 <li>
 <h3>Mail</h3>
-<span><a href="https://marketifythemes.net/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="523a373e3e3d12383721213b31337c313d3f">[email&#160;protected]</a></span>
+<span><a href="https://marketifythemes.net/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="523a373e3e3d12383721213b31337c313d3f">olusesia@gmail.com</a></span>
 </li>
 <li>
 <h3>Phone</h3>
-<span>+123 456 7890</span>
+<span>+234 8074 574 512</span>
 </li>
 <li>
 <h3>Address</h3>
-<span>20, Bardeshi, Dhaka</span>
+<span>10, Odunukan crescent, Olusosun bustop Ojota Lagos</span>
 </li>
 <li>
 <h3>Nationality</h3>
-<span>Bangladeshi</span>
+<span>Nigerian</span>
 </li>
 </ul>
 </div>
@@ -186,13 +187,13 @@
 <div class="right">
 <div class="iknow_tm_main_title">
 <span>About Me</span>
-<h3>World leading UI/UX designer</h3>
+<h3>Web developer</h3>
 </div>
 <div class="bigger_text">
-<p>A passionate UI/UX Designer and Web Developer based In NYC, USA</p>
+<p>A passionate Web Developer based In Lagos, Nigeria</p>
 </div>
 <div class="text">
-<p>Hi! My name is Sarah Jessica. I am UI/UX designer, and I'm very passionate and dedicated to my work. With 20 years experience as a professional graphic designer, I have acquired the skills and knowledge necessary to make your project a success.</p>
+<p>Hi! My name is Olusesi Ahmed. I am a web developer, and I'm very passionate and dedicated to my work. With 11 years experience as a professional web developer, I have acquired the skills and knowledge necessary to make your project a success.</p>
 </div>
 <div class="iknow_tm_button">
 <a href="img/cv/1.jpg" download>Download CV</a>
@@ -220,11 +221,11 @@
 <div class="list_inner">
 <div class="short">
 <div class="job">
-<h3>Cognitive Sciences</h3>
-<span>University of Maine</span>
+<h3>Electronics and Electrical Eng'ring</h3>
+<span>Obafemi Awolowo University</span>
 </div>
 <div class="year">
-<span>2018 - 2020</span>
+<span>2018 - 2014</span>
 </div>
 </div>
 <div class="text">
@@ -315,16 +316,28 @@
 </div>
 <div class="personal">
 <div class="dodo_progress">
-<div class="progress_inner" data-value="90">
-<span><span class="label">Time Management</span><span class="number">90%</span></span>
-<div class="background"><div class="bar"><div class="bar_in"></div></div></div>
-</div>
 <div class="progress_inner" data-value="70">
-<span><span class="label">Effeciency</span><span class="number">70%</span></span>
+<span><span class="label">Time Management</span><span class="number">70%</span></span>
 <div class="background"><div class="bar"><div class="bar_in"></div></div></div>
 </div>
+
+<div class="progress_inner" data-value="90">
+<span><span class="label">Analysis</span><span class="number">90%</span></span>
+<div class="background"><div class="bar"><div class="bar_in"></div></div></div>
+</div>
+
+<div class="progress_inner" data-value="45">
+<span><span class="label">Creativity</span><span class="number">45%</span></span>
+<div class="background"><div class="bar"><div class="bar_in"></div></div></div>
+</div>
+
 <div class="progress_inner" data-value="80">
-<span><span class="label">Intigrity</span><span class="number">80%</span></span>
+<span><span class="label">Efficiency</span><span class="number">80%</span></span>
+<div class="background"><div class="bar"><div class="bar_in"></div></div></div>
+</div>
+
+<div class="progress_inner" data-value="90">
+<span><span class="label">Integrity</span><span class="number">90%</span></span>
 <div class="background"><div class="bar"><div class="bar_in"></div></div></div>
 </div>
 </div>
@@ -827,7 +840,7 @@
 <span class="icon"><img class="svg" src="img/svg/smartphone.svg" alt="" /></span>
 <div class="short">
 <h3>Call Me</h3>
-<span>+234 807 4574 512</span>
+<span>+234 8074 5745 12</span>
 </div>
 </div>
 </li>
@@ -836,7 +849,7 @@
 <span class="icon"><img class="svg" src="img/svg/letter.svg" alt="" /></span>
 <div class="short">
 <h3>Email Us</h3>
-<span><a href="#"><span class="__cf_email__" data-cfemail="6d05080101022d040603021a430e0200">[email&#160;protected]</span></a></span>
+<span><a href="#"><span class="__cf_email__" data-cfemail="6d05080101022d040603021a430e0200">olusesia@gmail.com</span></a></span>
 </div>
 </div>
 </li>
@@ -853,7 +866,7 @@
 </div>
 <div class="right">
 <div class="fields">
-<form action="https://marketifythemes.net/" method="post" class="contact_form" id="contact_form" autocomplete="off">
+<form action="" method="post" class="contact_form" id="contact_form" autocomplete="off">
 <div class="returnmessage" data-success="Your message has been received, We will contact you soon."></div>
 <div class="empty_notice"><span>Please Fill Required Fields</span></div>
 <div class="input_list">
@@ -890,7 +903,7 @@
 <div class="container">
 <div class="inner">
 <div class="left">
-<p><!--Designed with love &copy; <a href="https://themeforest.net/user/marketify" target="_blank">Marketify</a>--></p>
+<p>/p>
 </div>
 <div class="right">
 <ul>
