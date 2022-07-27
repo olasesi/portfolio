@@ -137,7 +137,7 @@
 <li><a href="https://github.com/olasesi" target="_blank"><img class="svg" src="img/svg/social/github-150.svg" alt="ahmed github link" /></a></li>
 <!--<li><a href="#"><img class="svg" src="img/svg/social/twitter-2.svg" alt="" /></a></li>
 <li><a href="#"><img class="svg" src="img/svg/social/youtube-3.svg" alt="" /></a></li>-->
-<li><a href="https://www.linkedin.com/in/ahmed-olusesi" target="_blank"><img class="svg" src="img/svg/social/linkedin-2.svg" alt="ahmed linkedin link" /></a></li>
+<li><a href="https://linkedin.com/in/ahmed-olusesi" target="_blank"><img class="svg" src="img/svg/social/linkedin-2.svg" alt="ahmed linkedin link" /></a></li>
 </ul>
 </div>
 </div>
@@ -229,7 +229,7 @@
 <span>Obafemi Awolowo University, Ile-Ife</span>
 </div>
 <div class="year">
-<span>2018 - 2015</span>
+<span>2008 - 2015</span>
 </div>
 </div>
 <div class="text">
@@ -1125,7 +1125,7 @@
 document.write(date.getFullYear());
 
 </script>
- All right reerved - Olusesi Ahmed.
+ All right reserved - Olusesi Ahmed.
 </p>
 <!-- <div class="right">
 <ul>
