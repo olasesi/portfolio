@@ -104,7 +104,7 @@
                                     <span>Services</span>
                                     <a class="iknow_tm_full_link" href="#service"></a>
                                 </li>
-                                
+
                                 <li>
                                     <img class="svg" src="img/svg/letter.svg" alt="" />
                                     <span>Contact</span>
@@ -129,7 +129,7 @@
                                         <ul>
                                             <li><a href="https://facebook.com/ola.sesi" target="_blank"><img class="svg" src="img/svg/social/facebook-2.svg" alt="ahmed facebook link" /></a></li>
                                             <li><a href="https://github.com/olasesi" target="_blank"><img class="svg" src="img/svg/social/github-150.svg" alt="ahmed github link" /></a></li>
-                                            
+
                                             <li><a href="https://linkedin.com/in/ahmed-olusesi" target="_blank"><img class="svg" src="img/svg/social/linkedin-2.svg" alt="ahmed linkedin link" /></a></li>
                                         </ul>
                                     </div>
@@ -244,7 +244,7 @@
                                                             <div class="short">
                                                                 <div class="job">
                                                                     <h3>Graphics Designer</h3>
-                                                                    
+
                                                                 </div>
                                                                 <div class="year">
                                                                     <span>2012 - till date</span>
@@ -260,7 +260,7 @@
                                                             <div class="short">
                                                                 <div class="job">
                                                                     <h3>Web developer</h3>
-                                                                   
+
                                                                 </div>
                                                                 <div class="year">
                                                                     <span>2010 - till date</span>
@@ -696,7 +696,7 @@
                                                 </div>
                                             </li>
 
-                                            
+
                                         </ul>
                                     </div>
                                 </div>
@@ -717,7 +717,7 @@
                                                     <h3 class="title">Fullstack Web development</h3>
                                                     <p class="text">I work with the Back End — or server side — of the application as well as the Front End, or client side.</p>
 
-                                                  
+
 
                                                 </div>
                                             </li>
@@ -726,7 +726,7 @@
                                                     <span class="icon"><img class="svg" src="img/svg/physics.svg" alt="" /></span>
                                                     <h3 class="title">Custom Web Applications</h3>
                                                     <p class="text">I create web applications unique and tailored to your specific business needs.</p>
-                                                  
+
                                                 </div>
                                             </li>
                                             <li>
@@ -734,7 +734,7 @@
                                                     <span class="icon"><img class="svg" src="img/svg/web.svg" alt="" /></span>
                                                     <h3 class="title">Ecommerce Applications</h3>
                                                     <p class="text">I create wide varieties of shopping cart programs and also other software that incorporates payment options as plug-ins or as part of an entire site application.</p>
-                                                  
+
                                                 </div>
                                             </li>
 
@@ -743,7 +743,7 @@
                                                     <span class="icon"><img class="svg" src="img/svg/briefcase.svg" alt="" /></span>
                                                     <h3 class="title">Content Management Systems</h3>
                                                     <p class="text">I create software applications that allows users to collaborate in the creation, editing, and production of digital content; webpages, blog posts, etc..</p>
-                                                   
+
                                                 </div>
                                             </li>
                                             <li>
@@ -751,7 +751,7 @@
                                                     <span class="icon"><img class="svg" src="img/svg/writing_2.svg" alt="" /></span>
                                                     <h3 class="title">Web Support and Maintenance</h3>
                                                     <p class="text">Website support and maintenance like security updates, content amends, bug fixes, backups, improving Website Speed, etc.</p>
-                                                    
+
                                                 </div>
                                             </li>
                                         </ul>
@@ -759,7 +759,7 @@
                                 </div>
                             </div>
 
-                          
+
 
 
                             <div id="contact" class="iknow_tm_main_section">
@@ -801,7 +801,7 @@
                                             </ul>
                                         </div>
 
-                                      
+
                                     </div>
                                 </div>
                             </div>
@@ -829,7 +829,7 @@
                         </script>
                         All right reserved - Olusesi Ahmed.
                     </p>
-                   
+
                 </div>
             </div>
         </div>
