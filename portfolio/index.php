@@ -8,7 +8,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="description" content="Olusesi Ahmed Oladipupo is a fullstack web developer. I turn concepts, user stories, mockups, etc to  functional websites.">
+    <meta name="description" content="Olusesi Ahmed Oladipupo is a fullstack web developer. I turn concepts, initiatives and user stories to functional websites.">
     <meta name="author" content="olusesi ahmed">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>Portfolio - Olusesi Ahmed Oladipupo</title>
@@ -53,7 +53,7 @@
                     </div>
                     <div class="right">
                         <div class="iknow_tm_button fixedVersion">
-                            <a href="../storage/CV Olusesi Ahmed.pdf" download>Download CV</a>
+                            <a href="../storage/CV-Olusesi-Ahmed.pdf" download>Download CV</a>
                         </div>
                     </div>
 
@@ -192,7 +192,7 @@
                                             <p>Hi! My name is Olusesi Ahmed. I am a web developer, and I'm very passionate and dedicated to my work. With 11 years experience as a professional web developer, I have acquired the skills and knowledge necessary to make your project a success.</p>
                                         </div>
                                         <div class="iknow_tm_button">
-                                            <a href="../storage/CV Olusesi Ahmed.pdf" download>Download CV</a>
+                                            <a href="../storage/CV-Olusesi-Ahmed.pdf" download>Download CV</a>
 
                                         </div>
                                     </div>
